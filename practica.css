@@ -1,0 +1,13 @@
+/* Estilos para el bloque */
+.bloque {
+    background-color: lightblue;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para los spans en línea */
+.linea {
+    color: red;
+    font-style: italic;
+    margin-right: 10px;
+}
